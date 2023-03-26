@@ -1,0 +1,2 @@
+('Ruchi', 'Female', 'Group B', 'Some college', 'Standard', 'Completed', 78, 65, 83, 75, 226, 75, 'Grade B+', 'Pass')
+('Surabhi', 'Female', 'Group B', 'Some College', 'Standard', 'Completed', 85, 80, 78, 81, 243, 81, 'Grade A', 'Pass')
